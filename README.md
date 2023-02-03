@@ -16,6 +16,9 @@ I am a Front-END developer from Iran.
 
 </br>
 
+---
+
+### Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -26,6 +29,8 @@ I am a Front-END developer from Iran.
  
  
 </br>
+
+---
 
 ### 📌Where to find me
 
@@ -39,31 +44,32 @@ I am a Front-END developer from Iran.
     
 </div>
 
-<br/><br/>
+<br/>
 
-
+---
+<br/>
 
 <div align="center">
 <p >
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiasgary&show_icons=true&include_all_commits" alt="mahdiasgary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiasgary&show_icons=true&include_all_commits&theme=prussian" alt="mahdiasgary" />
   <br/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiasgary&layout=compact&hide=html&" alt="mahdiasgary" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiasgary&layout=compact&hide=html&theme=prussian" alt="mahdiasgary" />
 </p>
 </div>
 
 <br/><br/>
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TodoList&" alt="mahdiasgary"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-online-shop&" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TodoList&theme=prussian" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-online-shop&theme=prussian" alt="mahdiasgary"> 
 </p>
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=Inventory-App&" alt="mahdiasgary"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=shopping-cart&" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=Inventory-App&theme=prussian" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=shopping-cart&theme=prussian" alt="mahdiasgary"> 
 </p>
 
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TodoList&" alt="mahdiasgary"> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=search-bar&" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TodoList&theme=prussian" alt="mahdiasgary"> 
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=search-bar&theme=prussian" alt="mahdiasgary"> 
 </p>

@@ -5,7 +5,7 @@
 
 ###  About Me 
 
-I am a Front-END developer from Iran.
+I am a Front-End developer from Iran.
 
 - ⚡In coding, as a front-end developer, I try to be creative in it with the left hemisphere of my brain and the beauty of the UI with the right hemisphere of my brain.
 

@@ -67,23 +67,4 @@ I am a Front-End developer from Iran.
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TourGuide&theme=material-palenight" alt="mahdiasgary"> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mahdiasgary/React-TodoList" title="React TodoList">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TodoList&theme=material-palenight" alt="mahdiasgary"> 
-  </a>
-    <a align="left" href="https://github.com/mahdiasgary/React-online-shop" title="React online shop">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-online-shop&theme=material-palenight" alt="mahdiasgary"> </a>
-</p>
 
-<p align="center">
-<a align="left" href="https://github.com/mahdiasgary/Inventory-App" title="Inventory App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=Inventory-App&theme=material-palenight" alt="mahdiasgary"> 
-    </a>
-    <a  href="https://github.com/mahdiasgary/shopping-cart" title="shopping cart">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=shopping-cart&theme=material-palenight" alt="mahdiasgary"> 
-</p>
-
-<p align="center">
-<a  href="https://github.com/mahdiasgary/search-bar" title="search-bar">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=search-bar&theme=material-palenight" alt="mahdiasgary"> </a>
-</p>

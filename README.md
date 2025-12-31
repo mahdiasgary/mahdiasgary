@@ -46,25 +46,6 @@ I am a Front-End developer from Iran.
 
 <br/>
 
----
-<br/>
 
-<div align="center">
-<p >
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdiasgary&show_icons=true&include_all_commits&theme=material-palenight" alt="mahdiasgary" />
-  <br/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiasgary&layout=compact&hide=html&theme=material-palenight" alt="mahdiasgary" />
-</p>
-</div>
-
-<br/><br/> 
-<p align="center">
-  <a href="https://github.com/mahdiasgary/React-Movie-App" title="React Movie App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-Movie-App&theme=material-palenight" alt="mahdiasgary"> 
-  </a>
-    <a align="left" href="https://github.com/mahdiasgary/React-TourGuide" title="React TourGuide">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=mahdiasgary&repo=React-TourGuide&theme=material-palenight" alt="mahdiasgary"> </a>
-</p>
 
 

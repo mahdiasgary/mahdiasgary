@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm **Mahdi Asgary**, a passionate **Front-End Developer** based in Iran 🇮🇷.  
+I'm **Mahdi Asgary**, a passionate **Front-End Developer**  
 I enjoy building modern, scalable, and visually appealing web applications.
 
 - ⚡ I blend **creativity** and **logic** to craft clean UI/UX experiences.
